@@ -1,1 +1,1 @@
-# yy
+This project involves analyzing and predicting delays in flight departures using a synthetic dataset. The tasks include data cleaning, exploration of individual variables, bivariate data exploration, data transformation, and data modeling.
